@@ -1,0 +1,2 @@
+"Memory_and_Words/data/glove.6B.100d.txt" filter=lfs diff=lfs merge=lfs -text
+"Memory_and_Words/data/training_cleaned.csv" filter=lfs diff=lfs merge=lfs -text
