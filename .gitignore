@@ -1,5 +1,5 @@
-Callbacks_and_Convolutions/data/horse-or-human*
-Callbacks_and_Convolutions/data/validation-horse-or-human*
-Augmentation_and_Transfer_Learning/data/
-Memory_and_Words/data/glove.6B.100d.txt
-Memory_and_Words/data/sonnets.txt
+1_Callbacks_and_Convolutions/data/horse-or-human*
+1_Callbacks_and_Convolutions/data/validation-horse-or-human*
+2_Augmentation_and_Transfer_Learning/data/
+3_Memory_and_Words/data/glove.6B.100d.txt
+3_Memory_and_Words/data/sonnets.txt
