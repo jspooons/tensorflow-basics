@@ -3,3 +3,4 @@
 2_Augmentation_and_Transfer_Learning/data/
 3_Memory_and_Words/data/glove.6B.100d.txt
 3_Memory_and_Words/data/sonnets.txt
+4_Predicting_Sequences_101/data/Sunspots.csv
