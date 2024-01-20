@@ -14,3 +14,5 @@ Cloning the repo and downloading the large datasets:
 2. Run `git lfs install` to initialize (or just run this command)
 3. Open new terminal
 4. Run `git clone <repository_url>`
+
+test
