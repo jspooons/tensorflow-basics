@@ -16,4 +16,3 @@ Cloning the repo and downloading the large datasets:
 4. Run `git clone <repository_url>`
 
 test
-test 2
